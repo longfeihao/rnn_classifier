@@ -1,0 +1,1 @@
+python eval_classifier.py names-bin --usre-dir custom_fairseq --path checkpoints/checkpoint_best.pt
